@@ -1,6 +1,6 @@
 /* 
                                        CREATION OF DATABASE AND SCHEMAS
-                                   ******************************************
+                                   *******************************************
 
 This script creates a new database named 'Datawarehouse' and sets up 3 schemas (bronze, silver, and gold) within the Datawarehouse.
 
