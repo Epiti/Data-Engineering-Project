@@ -5,6 +5,8 @@
 This script loads CSV files into 'bronze' schema.
 It first Truncate the table and then insert data into tables.
 
+How to use it ?: EXEC load_data_into_bronze_layer
+
 */
 
 
