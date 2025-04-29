@@ -3,6 +3,8 @@
                                 DDL SCRIPT
 ***********************************************************************************
                  This script creates Tables in 'Silver' Schema.
+If the table exists and is not null, drop it and create a new one.
+WARNING: THIS SCRIPT DROPS THE EXISTING TABLE AND CREATES A NEW ONE.
 */
 
 
