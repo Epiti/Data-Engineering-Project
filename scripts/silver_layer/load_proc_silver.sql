@@ -5,7 +5,7 @@
 **********************************************************************************************************
 This script loads Data from 'bronze' layer to 'Silver' Layer
 It first Truncate the tables and then insert transformed and clean data into silver tables.
-
+How to use it ?: EXEC load_data_from_bronze_layer_to_silver_layer
 */
 
 
