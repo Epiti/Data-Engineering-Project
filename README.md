@@ -49,3 +49,9 @@ Visual diagrams in this repository detail:
 ✅ Layered Data Architecture (Bronze/Silver/Gold)  
 
 ---
+
+
+## 🙋 About Me
+
+**Joseph E. Mompunza**  
+*Aspiring Data Engineer | Data Analyst | Enthusiast Learner *
