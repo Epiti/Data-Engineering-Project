@@ -8,7 +8,7 @@ This project showcases the design and implementation of a modern **Data Warehous
 ## 📌 Project Overview
 
 - **Data Architecture**: Implements a layered architecture (Bronze → Silver → Gold) to streamline data processing and transformation.
-- **ETL Pipelines**: Loads structured data from CSV files into SQL Server using `BULK INSERT`, followed by cleansing and transformation via T-SQL.
+- **ETL Pipelines**: Loads structured data from CSV files into SQL Server, followed by cleansing and transformation.
 - **Data Modeling**: Builds a star schema with fact and dimension tables optimized for analytical queries.
 - **Analytics**: Prepares clean, structured data suitable for dashboarding and SQL-based insights.
 
@@ -23,7 +23,6 @@ This project showcases the design and implementation of a modern **Data Warehous
 ### ⬜ Silver Layer
 - Cleansed and standardized data
 - Includes deduplication, null handling, and value mapping
-- Business logic applied using SQL transformations
 
 ### 🟨 Gold Layer *(Planned)*
 - Business-ready star schema
