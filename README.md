@@ -54,7 +54,7 @@ Visual diagrams in this repository (documents) detail:
 ## 🙋 About Me
 
 **Joseph E. Mompunza**  
-*Aspiring Data Engineer | Data Analyst | Enthusiast Learner *
+**Aspiring Data Engineer | Data Analyst | Enthusiast Learner**
 
 🌐 [Website](your-website-link)  
 📊 [Tableau Profile](https://public.tableau.com/app/profile/joe.mompunza/vizzes)  
