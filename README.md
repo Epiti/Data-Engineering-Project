@@ -32,7 +32,7 @@ This project showcases the design and implementation of a  **Data Warehouse** us
 
 ## 🔁 Data Flow
 
-Visual diagrams in this repository detail:
+Visual diagrams in this repository (documents) detail:
 - Data Architecture  
 - Data Flow (ETL Process)  
 - Star Schema Model (Fact & Dimensions)  
@@ -55,3 +55,7 @@ Visual diagrams in this repository detail:
 
 **Joseph E. Mompunza**  
 *Aspiring Data Engineer | Data Analyst | Enthusiast Learner *
+
+🌐 [Website](your-website-link)  
+📊 [Tableau Profile](https://public.tableau.com/app/profile/joe.mompunza/vizzes)  
+📈 [Kaggle Profile](https://www.kaggle.com/josephepiti)
