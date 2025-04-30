@@ -1,7 +1,7 @@
 # Data-Engineering-Project
 # 🏗️ SQL Server Data Warehouse – Medallion Architecture
 
-This project showcases the design and implementation of a modern **Data Warehouse** using **SQL Server**, based on the Medallion Architecture (Bronze, Silver, and Gold layers). It covers the complete ETL process from raw ingestion to analytical modeling.
+This project showcases the design and implementation of a  **Data Warehouse** using **SQL Server**, based on the Medallion Architecture (Bronze, Silver, and Gold layers). It covers the complete ETL process from raw ingestion to analytical modeling.
 
 ---
 
