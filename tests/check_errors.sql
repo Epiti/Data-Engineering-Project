@@ -54,7 +54,7 @@ HAVING count(*) > 1 OR cst_id IS NULL
  SELECT DISTINCT cst_marital_status
  FROM silver.crm_cust_info
 
- -------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------------
  --FOR bronze.crm_prd_info TO silver.crm_prd_info
  --Cleaning
 -- Check for Duplicate and null values
@@ -106,7 +106,7 @@ WHERE prd_cost < 0 OR prd_cost IS NULL
 SELECT DISTINCT prd_line
 FROM silver.crm_prd_info 
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 --Check for Silver.crm sales details
 
 select sls_ord_num,
@@ -199,7 +199,7 @@ where sls_price <= 0 or sls_price is null
  from silver.erp_custaz12
 
  select * from bronze.erp_custaz12
- --------------------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------
  --Check errors for bronze.erp_loc_a101 :DONE
 
 ------Check errors fro bronze.px_cat
