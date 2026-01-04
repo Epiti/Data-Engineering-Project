@@ -24,7 +24,7 @@ This project showcases the design and implementation of a  **Data Warehouse** us
 - Cleansed and standardized data
 - Includes deduplication, null handling, and value mapping
 
-### 🟨 Gold Layer *(Planned)*
+### 🟨 Gold Layer
 - Business-ready star schema
 - Fact and dimension tables prepared for analytics and reporting
 
@@ -51,10 +51,10 @@ Visual diagrams in this repository (documents) detail:
 ---
 
 
-## 🙋 About Me
+## About Me
 
 **Joseph E. Mompunza**  
-**Aspiring Data Engineer | Data Analyst | Enthusiast Learner**
+**Computer Engineer |Aspiring Data Engineer | Data Analyst | Enthusiast Learner**
 
 🌐 [Website](https://www.epitidata.com/)  
 📊 [Tableau Profile](https://public.tableau.com/app/profile/joe.mompunza/vizzes)  
